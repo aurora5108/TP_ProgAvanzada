@@ -25,7 +25,7 @@ Este proyecto implementa un dashboard interactivo para analizar eventos de desha
 
 ## 🗄️ Base de Datos
 
-**Motor**: SQL Server (Local)  
+**Motor**: SQL Server 
 **Justificación**: SQL Server Management Studio permite un análisis robusto de datos estructurados con excelente rendimiento para consultas complejas y reportes.
 
 ### Estructura:
@@ -37,7 +37,7 @@ Este proyecto implementa un dashboard interactivo para analizar eventos de desha
 
 ### Prerrequisitos
 - Python 3.8+
-- SQL Server Management Studio (ya instalado)
+- SQL Server Management Studio
 - Jupyter Notebook
 
 ### 1. Configurar SQL Server (Opcional)
