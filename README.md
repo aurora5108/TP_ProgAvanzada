@@ -125,19 +125,19 @@ El dashboard incluye visualizaciones interactivas similares al ejemplo de Gapmin
    - Ranking horizontal de países
    - Visualización clara de los países más activos
 
-4. **Duración vs Distancia desde Costa**
-   - Scatter plot interactivo
-   - Dropdown para filtrar por país
-   - Análisis de correlaciones geográficas
+4. **Eventos por Mes vs Duración Promedio**
+   - Scatter plot interactivo por mes
+   - Análisis de correlación entre volumen y duración
+   - Hover con información del mes
 
 5. **Dashboard Principal**
    - Layout combinado con KPIs y gráficos
    - Controles interactivos integrados
 
 ### Controles Interactivos
-- **Dropdown por País**: Filtrar visualizaciones por bandera
-- **Hover Information**: Detalles al pasar el mouse
+- **Hover Information**: Detalles al pasar el mouse sobre puntos y barras
 - **Zoom y Pan**: Navegación en gráficos
+- **Exportación**: Dashboard exportable a HTML
 
 ### Estadísticas Resumen
 - Total de eventos mostrados
