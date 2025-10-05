@@ -1,18 +1,8 @@
 # Guía de Evaluación - Dashboard AIS
 
-## 🎯 Para el Evaluador
-
 Este repositorio contiene el trabajo práctico completo de programación avanzada: **Dashboard interactivo de eventos AIS**.
 
-### ✅ Criterios de Evaluación Cumplidos
-
-1. **✅ Dataset público**: AIS Disabling Events de Global Fishing Watch
-2. **✅ Base de datos**: Script SQL Server funcional (`database_setup.py`)
-3. **✅ Dashboard interactivo**: Notebook con Plotly (`ais_dashboard_new.ipynb`)
-4. **✅ Documentación**: README.md completo y replicable
-5. **✅ Replicabilidad**: Proyecto ejecutable sin errores
-
-## 🚀 Instrucciones Rápidas de Evaluación
+##  Instrucciones Rápidas de Evaluación
 
 ```bash
 # 1. Clonar repositorio
@@ -47,5 +37,3 @@ jupyter notebook ais_dashboard_new.ipynb
 - `README.md` - Documentación completa
 
 ---
-
-**✅ Proyecto listo para evaluación - Cumple todos los criterios del trabajo práctico**
